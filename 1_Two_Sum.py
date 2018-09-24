@@ -44,5 +44,5 @@ class Solution:
             nums_dict[number1] = index1
 
 
-a = Solution()
-print(a.twoSum(nums=[2, 7, 11, 15], target=9))
+# a = Solution()
+# print(a.twoSum(nums=[2, 7, 11, 15], target=9))
